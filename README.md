@@ -87,4 +87,4 @@ dotnet run
 
 ## Author
 Developed for ISE102 - Introduction to Software Development
-University of Technology Sydney (UTS)
+Torrens University technology 
